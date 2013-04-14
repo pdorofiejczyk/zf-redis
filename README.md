@@ -4,7 +4,9 @@ Zend fremework 1 style redis wrapper library
 
 ## Requirements ##
 
-+Phpredis PHP extension (https://github.com/nicolasff/phpredis)
++ PHP 5
++ Phpredis PHP extension (https://github.com/nicolasff/phpredis)
++ Zend framework class Zend_Config_Ini
 
 ## Classes and methods ##
 
